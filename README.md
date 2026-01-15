@@ -39,7 +39,7 @@ Tree-based ensemble models, particularly Random Forest and Gradient Boosting, ou
 ## Repository Structure
 
 - README.md  
-- Capstone_Final_Report.docx  
+- Capstone Project_Final Report-WallmartSalesForecasting.docx
 - notebooks/  
   - 01_Data_Cleaning_and_EDA.ipynb  
   - 02_Feature_Engineering_and_Modeling.ipynb  
@@ -47,7 +47,7 @@ Tree-based ensemble models, particularly Random Forest and Gradient Boosting, ou
 - data/  
   - raw/ (walmart_sales.csv)  
   - processed/ (walmart_prepared.csv)  
-- figures
+
 
 
 ## Project Structure
