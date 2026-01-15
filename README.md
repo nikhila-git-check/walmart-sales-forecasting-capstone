@@ -35,31 +35,22 @@ Tree-based ensemble models, particularly Random Forest and Gradient Boosting, ou
 - Explore time-series models such as ARIMA or LSTM
 - Build store- or department-specific forecasting models
 
+
+## Repository Structure
+
+- README.md  
+- Capstone_Final_Report.docx  
+- notebooks/  
+  - 01_Data_Cleaning_and_EDA.ipynb  
+  - 02_Feature_Engineering_and_Modeling.ipynb  
+  - 03_Model_Evaluation_and_Results.ipynb  
+- data/  
+  - raw/ (walmart_sales.csv)  
+  - processed/ (walmart_prepared.csv)  
+- figures
+
+
 ## Project Structure
-
-walmart-sales-forecasting-capstone/
-│
-├── README.md
-├── Capstone_Final_Report.docx
-│
-├── notebooks/
-│   ├── 01_Data_Cleaning_and_EDA.ipynb
-│   ├── 02_Feature_Engineering_and_Modeling.ipynb
-│   └── 03_Model_Evaluation_and_Results.ipynb
-│
-├── data/
-│   ├── raw/
-│   │   └── walmart_sales.csv
-│   │
-│   └── processed/
-│       └── walmart_prepared.csv
-│
-├── figures/
-│   └── (optional saved plots/images)
-│
-└── .gitignore
-
-
 - [Notebook 1: Data Cleaning and EDA](notebooks/01_Data_Cleaning_and_EDA.ipynb)
 - [Notebook 2: Feature Engineering and Modeling](notebooks/02_Feature_Engineering_and_Modeling.ipynb)
 - [Notebook 3: Model Evaluation and Final Results](notebooks/03_Model_Evaluation_and_Results.ipynb)
