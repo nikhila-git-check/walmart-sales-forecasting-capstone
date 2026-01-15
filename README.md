@@ -52,7 +52,8 @@ Tree-based ensemble models, particularly Random Forest and Gradient Boosting, ou
 
 The full nontechnical capstone report summarizing the problem, methodology, findings, and recommendations is available below:
 
-📄 **[Capstone Final Report – Walmart Sales Forecasting](Capstone_Project_Final Report-WalmartSalesForecasting.docx)**
+📄 **[Capstone Final Report – Walmart Sales Forecasting](Capstone_Final_Report_Walmart_Sales_Forecasting.docx)**
+
 
 ## Project Structure
 - [Notebook 1: Data Cleaning and EDA](notebooks/01_Data_Cleaning_and_EDA.ipynb)
