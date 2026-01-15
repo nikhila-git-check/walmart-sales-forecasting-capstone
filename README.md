@@ -45,7 +45,7 @@ Tree-based ensemble models, particularly Random Forest and Gradient Boosting, ou
   - 02_Feature_Engineering_and_Modeling.ipynb  
   - 03_Model_Evaluation_and_Results.ipynb  
 - data/  
-  - raw/ (walmart_sales.csv)  
+  - raw/ (features.csv, train.csv, stores.csv)  
   - processed/ (walmart_prepared.csv)  
 
 ## Final Report
